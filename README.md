@@ -1,4 +1,7 @@
-## Hi there 👋
+![Header_Hiroshi-Naga2i](https://github.com/user-attachments/assets/04649d4e-f700-4931-81b0-35d6b8310f15)
+
+[![Skills](https://skillicons.dev/icons?i=js,ts,dart,python,firebase,figma)](https://skillicons.dev)
+
 
 <!--
 **morikazu-max/morikazu-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
